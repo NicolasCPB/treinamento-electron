@@ -1,0 +1,10 @@
+button#botaoum{
+    color: black;
+    background-color: green;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    
+
+}
